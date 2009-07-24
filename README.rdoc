@@ -1,5 +1,5 @@
 
-= YourLib
+= jquery-text-tools
 
 A jquery plugin that linkifies a piece of text, either using the static api or a context.
 
